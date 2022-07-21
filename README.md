@@ -10,3 +10,5 @@
 [Click Here](https://www.qr-code-generator.com/)
 or 
 [Click Here](https://www.the-qrcode-generator.com/)
+
+## Website for QR Scanner: [Click Here](https://webqr.com/)
